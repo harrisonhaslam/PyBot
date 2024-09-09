@@ -68,6 +68,10 @@ else:
 
 5. Follow the prompts to interact with PyBot!
 
+## Recent Additions
+
+- Created a rock, paper, scissors game
+
 ## Future Improvements
 
 - Add more questions for a more engaging conversation.
@@ -75,7 +79,9 @@ else:
 - Randomize the bot's favorite color from the list each time.
 - Randomize a joke from a dataset.
 - Add an option to select what to do next.
-- 
+- ~~Add in a game to play~~
+- ~~Fix Rock, Paper, Scissors issue with incorrect inputs leading the bot to win~~
+- Implement the Rock, Paper, Scissors game into the bot
 
 ## License
 
