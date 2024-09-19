@@ -71,6 +71,7 @@ else:
 ## Recent Additions
 
 - Created a rock, paper, scissors game
+- Created a soda/shake ordering system
 
 ## Future Improvements
 
@@ -82,6 +83,7 @@ else:
 - ~~Add in a game to play~~
 - ~~Fix Rock, Paper, Scissors issue with incorrect inputs leading the bot to win~~
 - Implement the Rock, Paper, Scissors game into the bot
+- Implement the Drink Ordering system into the bot
 
 ## License
 
